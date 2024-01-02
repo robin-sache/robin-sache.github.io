@@ -4,3 +4,12 @@
 
 layout: home
 ---
+
+<p>See all sache:</p>
+<ul>
+{% for category in site.categories %}
+<li><a href="{{ site.url }}/jekyll/category/{{ category | first | url_encode }}/index.html">{{ category | first }}</a></li>
+{% endfor %}
+</ul>
+
+
