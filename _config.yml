@@ -25,3 +25,16 @@ defaults:
       comments: false
       share: false
       related: false
+
+author:
+  name: "Robin Meier"
+  avatar: "/assets/images/Robin.jpg"
+  bio: "Computer Science Student" # Note: Markdown is allowed
+  location: "Zurich"
+  links:
+    - label: "Linkedin"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/robin-meier-b6250a182/"
+    - label: "CV"
+      icon: "fas fa-id-card"
+      url: "/assets/pdfs/CV_RobinMeier.pdf"
