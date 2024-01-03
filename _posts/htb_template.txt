@@ -1,0 +1,13 @@
+---
+title:  "HackTheBox WriteUp - CozyHosting"
+date:   2023-12-30
+categories: cybersecurity htb
+---
+![card](/assets/images/cozyhosting/CozyHosting.png)
+## Enumeration
+
+## Initial Foothold
+
+## Privilege Escalation
+
+## Reflection
