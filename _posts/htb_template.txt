@@ -1,7 +1,7 @@
 ---
 title:  "HackTheBox WriteUp - CozyHosting"
 date:   2023-12-30
-categories: cybersecurity htb
+categories: Cybersecurity Hack-The-Box
 ---
 ![card](/assets/images/cozyhosting/CozyHosting.png)
 ## Enumeration
