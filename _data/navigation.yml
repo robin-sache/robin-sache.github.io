@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "All Posts"
-    url: https://robin-ny.github.io/categories/
+  #- title: "All Posts"
+  #  url: https://robin-ny.github.io/categories/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
