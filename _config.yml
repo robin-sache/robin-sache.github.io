@@ -29,7 +29,7 @@ defaults:
 author:
   name: "Robin Meier"
   avatar: "/assets/images/Robin.jpg"
-  bio: "Computer Science Student" # Note: Markdown is allowed
+  bio: "Computer Science Student. An accumulation of things (\"sache\" in swiss german) I have done and think are worth showing off. Some of it will be in german and some in english." # Note: Markdown is allowed
   location: "Zurich"
   links:
     - label: "Linkedin"
@@ -38,3 +38,6 @@ author:
     - label: "CV"
       icon: "fas fa-id-card"
       url: "/assets/pdfs/CV_RobinMeier.pdf"
+
+atom_feed:
+  hide: true
