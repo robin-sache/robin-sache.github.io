@@ -4,7 +4,7 @@ date:   2024-01-05
 categories: Cybersecurity Cloud-Computing
 ---
 ![card](/assets/images/eksclustergames/image.png)
-This is a WriteUp of the [WIZ][link] "EKS Cluster Games". The games are a cloud security CTF about identifiying and exploiting common AWS EKS security issues in five different tasks, with a given hint and access to a low-privileged AWS EKS pod via a wev terminal.
+This is a WriteUp of the [WIZ][link] "EKS Cluster Games". The games are a cloud security CTF about identifiying and exploiting common AWS EKS security issues in five different tasks, with a given hint and access to a low-privileged AWS EKS pod via a web terminal.
 
 ## Challenge 1 - Secret Seeker
 The given hint:
