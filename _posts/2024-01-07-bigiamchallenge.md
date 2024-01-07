@@ -3,9 +3,7 @@ title:  "AWS Big IAM Challenge"
 date:   2024-01-07
 categories: Cybersecurity Cloud-Computing
 ---
-
 ![card](/assets/images/bigiamchallenge/image.png)
-
 This is a WriteUp of the [WIZ][link] "The Big IAM Challenge". The challenge is a cloud security CTF about identifiying and exploiting AWS IAM misconfigurations in six different tasks, with a given hint, IAM policy and AWS CLI console.
 
 ## Challenge 1 - Buckets of Fun
