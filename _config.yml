@@ -1,11 +1,11 @@
 title: Robin Sache
-email: robinmeier758@gmail.com
+email: meier.robin@proton.me
 description: >- # this means to ignore newlines until "baseurl:"
   An  accumulation of things ("sache" in swiss german) I have done and think are worth showing off.
   Some of it will be in german and some in english.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  robin-ny
+github_username:  robin-sache
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
@@ -29,7 +29,7 @@ defaults:
 author:
   name: "Robin Meier"
   avatar: "/assets/images/Robin.jpg"
-  bio: "Computer Science Student. <br /> An accumulation of things (\"sache\" in swiss german) I have done and think are worth showing off." # Note: Markdown is allowed
+  bio: "System Engineer <br /> An accumulation of things (\"sache\" in swiss german) I have done and think are worth showing off." # Note: Markdown is allowed
   location: "Zurich"
   links:
     - label: "Linkedin"
