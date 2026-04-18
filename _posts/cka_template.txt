@@ -1,0 +1,12 @@
+---
+title:  "CKA - Killercoda <TITLE>"
+date:   2026-04-12
+categories: Cloud-Computing CKA
+---
+![CKA-LOGO](/assets/images/cka/logo.png)
+I am planning to take the CKA exam in the near future. I work with Kubernetes daily at my job, but am mostly self taught, so it is probably realistic to say that I have some knowledge gaps. This blog is part of my preparation, where I go through all the scenarios on Killercoda.
+
+# <TITLE>
+## <Task x>
+
+## Learnings
