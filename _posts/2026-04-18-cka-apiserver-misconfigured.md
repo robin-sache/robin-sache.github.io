@@ -1,5 +1,5 @@
 ---
-title:  "CKA - Killercoda Apiserver Misconfigured"
+title:  "Killercoda Apiserver Misconfigured"
 date:   2026-04-18
 categories: Cloud-Computing CKA
 ---

@@ -1,5 +1,5 @@
 ---
-title:  "CKA - Killercoda Apiserver Crash"
+title:  "Killercoda Apiserver Crash"
 date:   2026-04-12
 categories: Cloud-Computing CKA
 ---
