@@ -1,6 +1,6 @@
 ---
 title:  "Killercoda <TITLE>"
-date:   2026-04-12
+date:   <DATE>
 categories: Cloud-Computing CKA
 ---
 ![CKA-LOGO](/assets/images/cka/logo.png)
