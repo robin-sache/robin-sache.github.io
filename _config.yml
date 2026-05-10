@@ -12,6 +12,7 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
   - jekyll-include-cache
 
+minimal_mistakes_skin: "mint"
 
 defaults:
   # _posts
@@ -31,10 +32,6 @@ author:
   avatar: "/assets/images/Robin.jpg"
   bio: "System Engineer <br /> An accumulation of things (\"sache\" in swiss german) I have done and think are worth showing off." # Note: Markdown is allowed
   location: "Zurich"
-  links:
-    - label: "Linkedin"
-      icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/robin-meier-b6250a182/"
 
 atom_feed:
   hide: true
