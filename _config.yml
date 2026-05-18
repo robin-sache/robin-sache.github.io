@@ -13,7 +13,7 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
   - jekyll-include-cache
 
-minimal_mistakes_skin: "mint"
+minimal_mistakes_skin: "default"
 
 defaults:
   # _posts
